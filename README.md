@@ -243,7 +243,19 @@ Given an additional week, I would implement:
 
 The repository includes screenshots demonstrating:
 
-* Rule-based routing
+* Rule-based routing<img width="1920" height="1080" alt="AI_Agent4_Semantic_Cache_Similar_Query" src="https://github.com/user-attachments/assets/61ad925f-65b6-426d-9a36-15ce3a7e4cfb" />
+<img width="1920" height="1080" alt="AI_Agent4_Semantic_Cache" src="https://github.com/user-attachments/assets/c2f9f395-e36f-469f-ae7a-d7951a78a273" />
+<img width="1920" height="1080" alt="AI_Agent3" src="https://github.com/user-attachments/assets/d25e814b-37b4-4131-a8e0-0fd11baf01c4" />
+<img width="1920" height="1080" alt="AI_Agent2" src="https://github.com/user-attachments/assets/4903b29c-43bf-45d9-9505-ee13570946ce" />
+<img width="1920" height="1080" alt="AI_agent1" src="https://github.com/user-attachments/assets/6df55229-bc10-4e17-9de8-774678a11c74" />
+<img width="1920" height="1080" alt="AI_Agent_Stats_Updated" src="https://github.com/user-attachments/assets/5181ce40-2062-4711-a112-ad0814405674" />
+<img width="1920" height="1080" alt="AI_Agent_Stats" src="https://github.com/user-attachments/assets/51682a8f-a39f-4191-b264-a3c138b89da9" />
+<img width="1920" height="1080" alt="AI_Agent_Docker_health_check" src="https://github.com/user-attachments/assets/cb509b95-9008-4b90-82da-1dabaf19f09a" />
+<img width="1920" height="1080" alt="AI_Agent_Cache" src="https://github.com/user-attachments/assets/67c4c947-bdac-40c0-b39d-dc95db280791" />
+<img width="1920" height="1080" alt="AI_Agent_Docker_Compose_Running" src="https://github.com/user-attachments/assets/5f0a8eb8-43e5-4a36-958b-08a22bb3fc20" />
+<img width="1920" height="1080" alt="AI_Agent_Docker_Compose_Running" src="https://github.com/user-attachments/assets/67914ce2-b929-4189-9067-b15627a5ad51" />
+<img width="1920" height="1080" alt="AI_Agent_Cache" src="https://github.com/user-attachments/assets/c1ef8101-7625-4e71-9c7f-48aa1bcf7a15" />
+
 * LLM routing
 * Semantic cache hits
 * Statistics endpoint

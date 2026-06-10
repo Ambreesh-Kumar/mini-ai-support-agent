@@ -18,6 +18,16 @@ The project is containerized using Docker and can be started using Docker Compos
 - Docker Compose support
 - Cost-control configuration for LLM requests
 
+## Tech Stack
+
+* Node.js
+* Express.js
+* Google Gemini API
+* Docker
+* Docker Compose
+* string-similarity
+
+
 ## Architecture
 
 ```text
@@ -116,6 +126,26 @@ Response:
 ```
 
 ## Running Locally
+
+## Environment Variables
+
+The following environment variables are required:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+
+PORT=3000
+
+GEMINI_MODEL=gemini-2.5-flash-lite
+
+TEMPERATURE=0.3
+MAX_OUTPUT_TOKENS=300
+TOP_P=0.8
+TOP_K=20
+
+CACHE_SIMILARITY_THRESHOLD=0.75
+```
+
 
 ### Prerequisites
 
@@ -228,6 +258,9 @@ The repository includes screenshots demonstrating:
 
 ## Author
 
-Ambreesh Kumar
+**Ambreesh Kumar**
 
-Backend Developer Assignment Submission
+Backend Developer Assignment Submission for NextRow Digital.
+
+Thank you for reviewing my solution.
+

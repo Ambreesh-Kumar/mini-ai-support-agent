@@ -243,7 +243,13 @@ Given an additional week, I would implement:
 
 The repository includes screenshots demonstrating:
 
-* Rule-based routing<img width="1920" height="1080" alt="AI_Agent4_Semantic_Cache_Similar_Query" src="https://github.com/user-attachments/assets/61ad925f-65b6-426d-9a36-15ce3a7e4cfb" />
+* Rule-based routing
+* LLM routing
+* Semantic cache hits
+* Statistics endpoint
+* Docker Compose execution
+
+<img width="1920" height="1080" alt="AI_Agent4_Semantic_Cache_Similar_Query" src="https://github.com/user-attachments/assets/61ad925f-65b6-426d-9a36-15ce3a7e4cfb" />
 <img width="1920" height="1080" alt="AI_Agent4_Semantic_Cache" src="https://github.com/user-attachments/assets/c2f9f395-e36f-469f-ae7a-d7951a78a273" />
 <img width="1920" height="1080" alt="AI_Agent3" src="https://github.com/user-attachments/assets/d25e814b-37b4-4131-a8e0-0fd11baf01c4" />
 <img width="1920" height="1080" alt="AI_Agent2" src="https://github.com/user-attachments/assets/4903b29c-43bf-45d9-9505-ee13570946ce" />
@@ -256,10 +262,7 @@ The repository includes screenshots demonstrating:
 <img width="1920" height="1080" alt="AI_Agent_Docker_Compose_Running" src="https://github.com/user-attachments/assets/67914ce2-b929-4189-9067-b15627a5ad51" />
 <img width="1920" height="1080" alt="AI_Agent_Cache" src="https://github.com/user-attachments/assets/c1ef8101-7625-4e71-9c7f-48aa1bcf7a15" />
 
-* LLM routing
-* Semantic cache hits
-* Statistics endpoint
-* Docker Compose execution
+
 
 ## Assumptions
 
